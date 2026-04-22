@@ -5,8 +5,11 @@ This project is based on students future scores by their past features and activ
 
 ## Project Requirements
 Language: Python
+
 Libraries: Numpy, Pandas and Matplotlib
+
 Framework and Algorithms: Scikit learn |  XGBoost and Decison Tree
+
 Dataset Source: Kaggle
 
 Results & Performance
