@@ -6,7 +6,7 @@ Language: Python
 
 Libraries: Numpy, Pandas and Matplotlib
 
-Framework and Algorithms: Scikit learn |  XGBoost and Decison Tree
+Framework and Algorithms: Scikit learn |  XGBoost and Decision Tree
 
 Dataset Source: Kaggle
 
