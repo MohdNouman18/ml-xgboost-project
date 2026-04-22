@@ -1,7 +1,7 @@
 [requirements.txt](https://github.com/user-attachments/files/26981202/requirements.txt)[requirements.txt](https://github.com/user-attachments/files/26981193/requirements.txt)# ML Predictive Modeling
 
 ## Project Description
-This project is based on students future scores by their past features and activites. In this project, I applied two algorithms, First is Decision tree and second is XgBoost. With Decision tree algorithm i was achieved 36% accuracy and with XgBoost 61% accuracy.
+This project is based on students future scores by their past features and activites. In this project, I applied two algorithms, First is Decision tree and second is XgBoost. With Decision tree algorithm i was achieved 34% accuracy and with XgBoost 61% accuracy.
 
 ## Project Requirements
 Language: Python
